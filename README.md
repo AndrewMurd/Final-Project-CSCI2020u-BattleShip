@@ -1,5 +1,5 @@
 # csci2020u_Final_Project2020
-https://github.com/TheHub5/csci2020u_Final_Project2020
+https://github.com/AndrewMurd/Final-Project-CSCI2020u-BattleShip
 By: Hubert Giang, Andrew Murdoch, Raza Kazmi, and Nicholas Bode
 
 

@@ -1,0 +1,5 @@
+Entered room as Player 2
+Connected to: localhost: 77
+You have sunk a ship!
+Player2: asd
+Player2: hello gamer

@@ -1,0 +1,35 @@
+plugins {
+
+    id "application"
+
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+
+}
+
+javafx {
+
+    version = "13.0.2"
+
+    modules = [ 'javafx.controls' ]
+
+}
+
+repositories {
+
+    mavenCentral()
+
+ }
+
+dependencies {
+
+    compile group: 'commons-validator', name: 'commons-validator', version: '1.6'
+
+}
+
+
+
+apply plugin: 'java'
+
+mainClassName = "BattleShip.Main"
+
+

@@ -1,0 +1,6 @@
+Entered room as Player 1
+Server running on port: 77
+Waiting for Opponent to Connect....
+OPPONENT HAS CONNECTED!
+Player2: asd
+Player2: hello gamer
